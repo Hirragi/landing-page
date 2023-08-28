@@ -1,0 +1,155 @@
+.header {
+    padding:8px;
+    background-color: #1F2937;
+    display:flex;
+    align-items: center;
+    padding-bottom: 50px;
+    justify-content: space-between;
+}
+
+.logo {
+    font-size:24px;
+    color: #F9FAF8;
+    margin-left:200px;
+}
+
+ul {
+    list-style-type:none;
+    display:flex;
+    gap:16px;
+    margin-right:200px;
+}
+
+a {
+    font-size:18px;
+    color:#E5E7EB;
+    text-decoration:none;
+}
+
+body {
+    margin:0px;
+}
+
+/* Section 1 */
+
+
+.title {
+    margin-top: 36px;
+    margin-bottom: 32px;
+    font-size: 36px;
+    font-weight: 900;
+}
+
+.sec-one {
+    background-color: #1F2937;
+}
+
+button {
+  cursor: pointer;
+  padding: 8px 16px;
+  border-radius: 8px;
+}
+
+button.sign-up {
+    background: #94BCA4;
+    border: 1px solid #94BCA4;
+    color: white;
+    font-weight:bold;
+}
+
+.sec-one-header {
+    font-size:48px;
+    font-weight:bolder;
+    color:#F9FAF8;
+}
+
+.sec-one-text {
+    font-size:18px;
+    color: #E5E7EB;
+    width:400px;
+}
+
+.sec-one {
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 50px;
+}
+
+/* Section 2 */
+
+.container {
+    display:flex;
+    justify-content: center;
+    gap:52px;
+}
+
+img {
+    width:100px;
+    height:auto;
+}
+
+.sec-two {
+    text-align: center;
+    padding-bottom:50px;
+}
+
+.info {
+    max-width:200px;
+    margin-bottom:50px;
+}
+
+/* Section 3 */
+
+.sec-three {
+    background-color:#E5E7EB;
+    padding:50px;
+}
+
+.quote {
+    font-size:36px;
+    color:#1F2937
+}
+
+.quoter {
+    display:flex;
+    justify-content: flex-end;
+    margin-right:250px;
+}
+
+/* Section 4 */
+
+.sec-four {
+    background-color:#94BCA4;
+    color:#F9FAF8;
+    padding:30px;
+    margin: 30px 250px 30px;
+    font-size:20px;
+
+}
+
+.signs {
+    border: 1px solid #F9FAF8;
+    background-color: #94BCA4;
+    color:#F9FAF8;
+    margin-right:60px;
+}
+
+.call {
+    display:flex;
+    justify-content: space-between;
+}
+
+.drake {
+    display:flex;
+    font-size:16px;
+    color:#E5E7EB;
+}
+
+.drake,
+.call {
+    margin-left:60px;
+}
+
+
+
